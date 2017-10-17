@@ -8,6 +8,7 @@ public class registrationTests {
 	
 	@Given("^user is visiting homepage$")
 	public void user_is_visiting_homepage() throws Throwable {
+		
 
 	}
 
